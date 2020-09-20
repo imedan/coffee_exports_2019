@@ -1,0 +1,199 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H5,2019,2019,2019,6,1,2,Export,36,Australia,AUS,276,Germany,DEU,,,,,,,,090111,Coffee; not roasted or decaffeinated,1,No Quantity,0,,,,,,259633,,,6
+H5,2019,2019,2019,6,1,2,Export,36,Australia,AUS,392,Japan,JPN,,,,,,,,090111,Coffee; not roasted or decaffeinated,8,Weight in kilograms,48628,,,,48628,,310800,,,0
+H5,2019,2019,2019,6,1,2,Export,36,Australia,AUS,842,USA,USA,,,,,,,,090111,Coffee; not roasted or decaffeinated,8,Weight in kilograms,74191,,,,74191,,273346,,,0
+H5,2019,2019,2019,6,1,2,Export,40,Austria,AUT,56,Belgium,BEL,,,,,,,,090111,Coffee; not roasted or decaffeinated,8,Weight in kilograms,225,,,,225,,3125,,,0
+H5,2019,2019,2019,6,1,2,Export,40,Austria,AUT,276,Germany,DEU,,,,,,,,090111,Coffee; not roasted or decaffeinated,8,Weight in kilograms,59270,,,,59270,,238338,,,0
+H5,2019,2019,2019,6,1,2,Export,40,Austria,AUT,381,Italy,ITA,,,,,,,,090111,Coffee; not roasted or decaffeinated,8,Weight in kilograms,343,,,,343,,3233,,,0
+H5,2019,2019,2019,6,1,2,Export,56,Belgium,BEL,276,Germany,DEU,,,,,,,,090111,Coffee; not roasted or decaffeinated,8,Weight in kilograms,11310500,,,,11310500,,28432700,,,0
+H5,2019,2019,2019,6,1,2,Export,56,Belgium,BEL,381,Italy,ITA,,,,,,,,090111,Coffee; not roasted or decaffeinated,8,Weight in kilograms,3711690,,,,3711690,,10723927,,,0
+H5,2019,2019,2019,6,1,2,Export,56,Belgium,BEL,392,Japan,JPN,,,,,,,,090111,Coffee; not roasted or decaffeinated,8,Weight in kilograms,3547,,,,3547,,35942,,,0
+H5,2019,2019,2019,6,1,2,Export,56,Belgium,BEL,842,USA,USA,,,,,,,,090111,Coffee; not roasted or decaffeinated,8,Weight in kilograms,74014,,,,74014,,245294,,,0
+H5,2019,2019,2019,6,1,2,Export,70,Bosnia Herzegovina,BIH,842,USA,USA,,,,,,,,090111,Coffee; not roasted or decaffeinated,8,Weight in kilograms,1350,,,,1350,,6100,,,0
+H5,2019,2019,2019,6,1,2,Export,76,Brazil,BRA,56,Belgium,BEL,,,,,,,,090111,Coffee; not roasted or decaffeinated,8,Weight in kilograms,151251589,,,,151251589,,306703135,,,0
+H5,2019,2019,2019,6,1,2,Export,76,Brazil,BRA,276,Germany,DEU,,,,,,,,090111,Coffee; not roasted or decaffeinated,8,Weight in kilograms,383917514,,,,383923514,,793358157,,,0
+H5,2019,2019,2019,6,1,2,Export,76,Brazil,BRA,381,Italy,ITA,,,,,,,,090111,Coffee; not roasted or decaffeinated,8,Weight in kilograms,216353565,,,,216353541,,471813865,,,0
+H5,2019,2019,2019,6,1,2,Export,76,Brazil,BRA,392,Japan,JPN,,,,,,,,090111,Coffee; not roasted or decaffeinated,8,Weight in kilograms,148052030,,,,148052029,,343856733,,,6
+H5,2019,2019,2019,6,1,2,Export,76,Brazil,BRA,842,USA,USA,,,,,,,,090111,Coffee; not roasted or decaffeinated,8,Weight in kilograms,439802353,,,,439802353,,908552709,,,0
+H5,2019,2019,2019,6,1,2,Export,84,Belize,BLZ,842,USA,USA,,,,,,,,090111,Coffee; not roasted or decaffeinated,8,Weight in kilograms,200,,,,200,,577,,,0
+H5,2019,2019,2019,6,1,2,Export,100,Bulgaria,BGR,56,Belgium,BEL,,,,,,,,090111,Coffee; not roasted or decaffeinated,8,Weight in kilograms,65516,,,,65516,,132593,,,0
+H5,2019,2019,2019,6,1,2,Export,100,Bulgaria,BGR,276,Germany,DEU,,,,,,,,090111,Coffee; not roasted or decaffeinated,8,Weight in kilograms,76354,,,,76354,,144256,,,0
+H5,2019,2019,2019,6,1,2,Export,100,Bulgaria,BGR,381,Italy,ITA,,,,,,,,090111,Coffee; not roasted or decaffeinated,8,Weight in kilograms,44744,,,,44744,,261068,,,0
+H5,2019,2019,2019,6,1,2,Export,104,Myanmar,MMR,56,Belgium,BEL,,,,,,,,090111,Coffee; not roasted or decaffeinated,8,Weight in kilograms,11040,,,,11040,,64716,,,0
+H5,2019,2019,2019,6,1,2,Export,104,Myanmar,MMR,276,Germany,DEU,,,,,,,,090111,Coffee; not roasted or decaffeinated,8,Weight in kilograms,1200,,,,1200,,8580,,,0
+H5,2019,2019,2019,6,1,2,Export,104,Myanmar,MMR,392,Japan,JPN,,,,,,,,090111,Coffee; not roasted or decaffeinated,8,Weight in kilograms,62225,,,,62225,,287699,,,0
+H5,2019,2019,2019,6,1,2,Export,104,Myanmar,MMR,842,USA,USA,,,,,,,,090111,Coffee; not roasted or decaffeinated,8,Weight in kilograms,24420,,,,24420,,141546,,,0
+H5,2019,2019,2019,6,1,2,Export,124,Canada,CAN,276,Germany,DEU,,,,,,,,090111,Coffee; not roasted or decaffeinated,8,Weight in kilograms,81771,,,,81771,,259441,,,0
+H5,2019,2019,2019,6,1,2,Export,124,Canada,CAN,392,Japan,JPN,,,,,,,,090111,Coffee; not roasted or decaffeinated,8,Weight in kilograms,28119,,,,28119,,134647,,,0
+H5,2019,2019,2019,6,1,2,Export,124,Canada,CAN,842,USA,USA,,,,,,,,090111,Coffee; not roasted or decaffeinated,8,Weight in kilograms,5846135,,,,5846135,,19571048,,,0
+H5,2019,2019,2019,6,1,2,Export,170,Colombia,COL,56,Belgium,BEL,,,,,,,,090111,Coffee; not roasted or decaffeinated,8,Weight in kilograms,36907652,,,,36907652,,120953632,,,0
+H5,2019,2019,2019,6,1,2,Export,170,Colombia,COL,276,Germany,DEU,,,,,,,,090111,Coffee; not roasted or decaffeinated,8,Weight in kilograms,65209239,,,,65209239,,192618910,,,0
+H5,2019,2019,2019,6,1,2,Export,170,Colombia,COL,381,Italy,ITA,,,,,,,,090111,Coffee; not roasted or decaffeinated,8,Weight in kilograms,19789451,,,,19789451,,58843548,,,0
+H5,2019,2019,2019,6,1,2,Export,170,Colombia,COL,392,Japan,JPN,,,,,,,,090111,Coffee; not roasted or decaffeinated,8,Weight in kilograms,62399764,,,,62399764,,183928101,,,6
+H5,2019,2019,2019,6,1,2,Export,170,Colombia,COL,842,USA,USA,,,,,,,,090111,Coffee; not roasted or decaffeinated,8,Weight in kilograms,326560923,,,,326560923,,987726275,,,0
+H5,2019,2019,2019,6,1,2,Export,191,Croatia,HRV,276,Germany,DEU,,,,,,,,090111,Coffee; not roasted or decaffeinated,8,Weight in kilograms,23778,,,,23778,,40554,,,0
+H5,2019,2019,2019,6,1,2,Export,196,Cyprus,CYP,276,Germany,DEU,,,,,,,,090111,Coffee; not roasted or decaffeinated,8,Weight in kilograms,5,,,,5,,63,,,0
+H5,2019,2019,2019,6,1,2,Export,196,Cyprus,CYP,842,USA,USA,,,,,,,,090111,Coffee; not roasted or decaffeinated,8,Weight in kilograms,507,,,,507,,9476,,,0
+H5,2019,2019,2019,6,1,2,Export,208,Denmark,DNK,56,Belgium,BEL,,,,,,,,090111,Coffee; not roasted or decaffeinated,8,Weight in kilograms,62,,,,62,,1207,,,0
+H5,2019,2019,2019,6,1,2,Export,208,Denmark,DNK,276,Germany,DEU,,,,,,,,090111,Coffee; not roasted or decaffeinated,8,Weight in kilograms,563,,,,563,,8779,,,0
+H5,2019,2019,2019,6,1,2,Export,208,Denmark,DNK,381,Italy,ITA,,,,,,,,090111,Coffee; not roasted or decaffeinated,8,Weight in kilograms,7,,,,7,,124,,,0
+H5,2019,2019,2019,6,1,2,Export,208,Denmark,DNK,842,USA,USA,,,,,,,,090111,Coffee; not roasted or decaffeinated,8,Weight in kilograms,3105,,,,3105,,15515,,,0
+H5,2019,2019,2019,6,1,2,Export,222,El Salvador,SLV,56,Belgium,BEL,,,,,,,,090111,Coffee; not roasted or decaffeinated,8,Weight in kilograms,2338414,,,,2338414,,6623265,,,0
+H5,2019,2019,2019,6,1,2,Export,222,El Salvador,SLV,276,Germany,DEU,,,,,,,,090111,Coffee; not roasted or decaffeinated,8,Weight in kilograms,3999152,,,,3999152,,9879558,,,0
+H5,2019,2019,2019,6,1,2,Export,222,El Salvador,SLV,381,Italy,ITA,,,,,,,,090111,Coffee; not roasted or decaffeinated,8,Weight in kilograms,2645392,,,,2645392,,7184709,,,0
+H5,2019,2019,2019,6,1,2,Export,222,El Salvador,SLV,392,Japan,JPN,,,,,,,,090111,Coffee; not roasted or decaffeinated,8,Weight in kilograms,2136692,,,,2136692,,7645472,,,0
+H5,2019,2019,2019,6,1,2,Export,222,El Salvador,SLV,842,USA,USA,,,,,,,,090111,Coffee; not roasted or decaffeinated,8,Weight in kilograms,16245638,,,,16245638,,49159616,,,0
+H5,2019,2019,2019,6,1,2,Export,246,Finland,FIN,276,Germany,DEU,,,,,,,,090111,Coffee; not roasted or decaffeinated,8,Weight in kilograms,122780,,,,122780,,283886,,,0
+H5,2019,2019,2019,6,1,2,Export,246,Finland,FIN,392,Japan,JPN,,,,,,,,090111,Coffee; not roasted or decaffeinated,8,Weight in kilograms,1979,,,,1979,,32623,,,0
+H5,2019,2019,2019,6,1,2,Export,246,Finland,FIN,842,USA,USA,,,,,,,,090111,Coffee; not roasted or decaffeinated,8,Weight in kilograms,6,,,,6,,109,,,0
+H5,2019,2019,2019,6,1,2,Export,251,France,FRA,56,Belgium,BEL,,,,,,,,090111,Coffee; not roasted or decaffeinated,8,Weight in kilograms,1490470,,,,1490470,,3721225,,,0
+H5,2019,2019,2019,6,1,2,Export,251,France,FRA,276,Germany,DEU,,,,,,,,090111,Coffee; not roasted or decaffeinated,8,Weight in kilograms,276885,,,,276885,,981373,,,0
+H5,2019,2019,2019,6,1,2,Export,251,France,FRA,381,Italy,ITA,,,,,,,,090111,Coffee; not roasted or decaffeinated,8,Weight in kilograms,630713,,,,630713,,1413337,,,0
+H5,2019,2019,2019,6,1,2,Export,251,France,FRA,392,Japan,JPN,,,,,,,,090111,Coffee; not roasted or decaffeinated,8,Weight in kilograms,160,,,,160,,16069,,,0
+H5,2019,2019,2019,6,1,2,Export,251,France,FRA,842,USA,USA,,,,,,,,090111,Coffee; not roasted or decaffeinated,8,Weight in kilograms,261557,,,,261557,,4706277,,,0
+H5,2019,2019,2019,6,1,2,Export,276,Germany,DEU,56,Belgium,BEL,,,,,,,,090111,Coffee; not roasted or decaffeinated,8,Weight in kilograms,1284238,,,,1284238,,3626165,,,0
+H5,2019,2019,2019,6,1,2,Export,276,Germany,DEU,381,Italy,ITA,,,,,,,,090111,Coffee; not roasted or decaffeinated,8,Weight in kilograms,8149172,,,,8149172,,21907275,,,0
+H5,2019,2019,2019,6,1,2,Export,276,Germany,DEU,392,Japan,JPN,,,,,,,,090111,Coffee; not roasted or decaffeinated,8,Weight in kilograms,6300,,,,6300,,37253,,,0
+H5,2019,2019,2019,6,1,2,Export,276,Germany,DEU,842,USA,USA,,,,,,,,090111,Coffee; not roasted or decaffeinated,8,Weight in kilograms,6107828,,,,6107828,,13463707,,,0
+H5,2019,2019,2019,6,1,2,Export,288,Ghana,GHA,842,USA,USA,,,,,,,,090111,Coffee; not roasted or decaffeinated,8,Weight in kilograms,113,,,,113,,312,,,0
+H5,2019,2019,2019,6,1,2,Export,300,Greece,GRC,56,Belgium,BEL,,,,,,,,090111,Coffee; not roasted or decaffeinated,8,Weight in kilograms,31582,,,,31582,,243644,,,0
+H5,2019,2019,2019,6,1,2,Export,300,Greece,GRC,276,Germany,DEU,,,,,,,,090111,Coffee; not roasted or decaffeinated,8,Weight in kilograms,11750,,,,11750,,281729,,,0
+H5,2019,2019,2019,6,1,2,Export,300,Greece,GRC,381,Italy,ITA,,,,,,,,090111,Coffee; not roasted or decaffeinated,8,Weight in kilograms,12,,,,12,,152,,,0
+H5,2019,2019,2019,6,1,2,Export,320,Guatemala,GTM,56,Belgium,BEL,,,,,,,,090111,Coffee; not roasted or decaffeinated,8,Weight in kilograms,16533641,,,,16533641,,49036116,,,0
+H5,2019,2019,2019,6,1,2,Export,320,Guatemala,GTM,276,Germany,DEU,,,,,,,,090111,Coffee; not roasted or decaffeinated,8,Weight in kilograms,8097872,,,,8097872,,25539068,,,0
+H5,2019,2019,2019,6,1,2,Export,320,Guatemala,GTM,381,Italy,ITA,,,,,,,,090111,Coffee; not roasted or decaffeinated,8,Weight in kilograms,10396028,,,,10396028,,30508076,,,0
+H5,2019,2019,2019,6,1,2,Export,320,Guatemala,GTM,392,Japan,JPN,,,,,,,,090111,Coffee; not roasted or decaffeinated,8,Weight in kilograms,28885293,,,,28885293,,87059017,,,0
+H5,2019,2019,2019,6,1,2,Export,320,Guatemala,GTM,842,USA,USA,,,,,,,,090111,Coffee; not roasted or decaffeinated,8,Weight in kilograms,82510354,,,,82510354,,262797327,,,0
+H5,2019,2019,2019,6,1,2,Export,344,"China, Hong Kong SAR",HKG,56,Belgium,BEL,,,,,,,,090111,Coffee; not roasted or decaffeinated,8,Weight in kilograms,328,,,,328,,3270,,,0
+H5,2019,2019,2019,6,1,2,Export,344,"China, Hong Kong SAR",HKG,842,USA,USA,,,,,,,,090111,Coffee; not roasted or decaffeinated,8,Weight in kilograms,38,,,,38,,2602,,,0
+H5,2019,2019,2019,6,1,2,Export,348,Hungary,HUN,56,Belgium,BEL,,,,,,,,090111,Coffee; not roasted or decaffeinated,8,Weight in kilograms,18772,,,,18772,,256099,,,0
+H5,2019,2019,2019,6,1,2,Export,348,Hungary,HUN,276,Germany,DEU,,,,,,,,090111,Coffee; not roasted or decaffeinated,8,Weight in kilograms,3900,,,,3900,,103652,,,0
+H5,2019,2019,2019,6,1,2,Export,348,Hungary,HUN,381,Italy,ITA,,,,,,,,090111,Coffee; not roasted or decaffeinated,8,Weight in kilograms,6471,,,,6471,,118118,,,0
+H5,2019,2019,2019,6,1,2,Export,360,Indonesia,IDN,56,Belgium,BEL,,,,,,,,090111,Coffee; not roasted or decaffeinated,8,Weight in kilograms,15606023,,,,15606023,,44758691,,,6
+H5,2019,2019,2019,6,1,2,Export,360,Indonesia,IDN,276,Germany,DEU,,,,,,,,090111,Coffee; not roasted or decaffeinated,8,Weight in kilograms,15657004,,,,15657004,,44904906,,,6
+H5,2019,2019,2019,6,1,2,Export,360,Indonesia,IDN,381,Italy,ITA,,,,,,,,090111,Coffee; not roasted or decaffeinated,8,Weight in kilograms,21043872,,,,21043872,,60354653,,,6
+H5,2019,2019,2019,6,1,2,Export,360,Indonesia,IDN,392,Japan,JPN,,,,,,,,090111,Coffee; not roasted or decaffeinated,8,Weight in kilograms,23891772,,,,23891772,,68522545,,,6
+H5,2019,2019,2019,6,1,2,Export,360,Indonesia,IDN,842,USA,USA,,,,,,,,090111,Coffee; not roasted or decaffeinated,8,Weight in kilograms,88503003,,,,88503003,,253830097,,,6
+H5,2019,2019,2019,6,1,2,Export,376,Israel,ISR,842,USA,USA,,,,,,,,090111,Coffee; not roasted or decaffeinated,8,Weight in kilograms,154809,,,,154809,,444000,,,6
+H5,2019,2019,2019,6,1,2,Export,381,Italy,ITA,56,Belgium,BEL,,,,,,,,090111,Coffee; not roasted or decaffeinated,8,Weight in kilograms,71272,,,,71272,,152483,,,0
+H5,2019,2019,2019,6,1,2,Export,381,Italy,ITA,276,Germany,DEU,,,,,,,,090111,Coffee; not roasted or decaffeinated,8,Weight in kilograms,1644814,,,,1644814,,3321432,,,0
+H5,2019,2019,2019,6,1,2,Export,381,Italy,ITA,392,Japan,JPN,,,,,,,,090111,Coffee; not roasted or decaffeinated,8,Weight in kilograms,23248,,,,23248,,150659,,,0
+H5,2019,2019,2019,6,1,2,Export,381,Italy,ITA,842,USA,USA,,,,,,,,090111,Coffee; not roasted or decaffeinated,8,Weight in kilograms,163819,,,,163819,,1160842,,,0
+H5,2019,2019,2019,6,1,2,Export,384,Côte d'Ivoire,CIV,56,Belgium,BEL,,,,,,,,090111,Coffee; not roasted or decaffeinated,8,Weight in kilograms,13481419,,,,13481419,,19459535,,,0
+H5,2019,2019,2019,6,1,2,Export,384,Côte d'Ivoire,CIV,276,Germany,DEU,,,,,,,,090111,Coffee; not roasted or decaffeinated,8,Weight in kilograms,1531560,,,,1531560,,2112073,,,0
+H5,2019,2019,2019,6,1,2,Export,384,Côte d'Ivoire,CIV,381,Italy,ITA,,,,,,,,090111,Coffee; not roasted or decaffeinated,8,Weight in kilograms,2296509,,,,2296509,,3656317,,,0
+H5,2019,2019,2019,6,1,2,Export,384,Côte d'Ivoire,CIV,842,USA,USA,,,,,,,,090111,Coffee; not roasted or decaffeinated,8,Weight in kilograms,654000,,,,654000,,798374,,,0
+H5,2019,2019,2019,6,1,2,Export,388,Jamaica,JAM,56,Belgium,BEL,,,,,,,,090111,Coffee; not roasted or decaffeinated,8,Weight in kilograms,7590,,,,7590,,251963,,,0
+H5,2019,2019,2019,6,1,2,Export,388,Jamaica,JAM,276,Germany,DEU,,,,,,,,090111,Coffee; not roasted or decaffeinated,8,Weight in kilograms,900,,,,900,,28893,,,0
+H5,2019,2019,2019,6,1,2,Export,388,Jamaica,JAM,381,Italy,ITA,,,,,,,,090111,Coffee; not roasted or decaffeinated,8,Weight in kilograms,150,,,,150,,4316,,,0
+H5,2019,2019,2019,6,1,2,Export,388,Jamaica,JAM,392,Japan,JPN,,,,,,,,090111,Coffee; not roasted or decaffeinated,8,Weight in kilograms,255435,,,,255435,,6666064,,,0
+H5,2019,2019,2019,6,1,2,Export,388,Jamaica,JAM,842,USA,USA,,,,,,,,090111,Coffee; not roasted or decaffeinated,8,Weight in kilograms,77432,,,,77432,,2375458,,,0
+H5,2019,2019,2019,6,1,2,Export,400,Jordan,JOR,56,Belgium,BEL,,,,,,,,090111,Coffee; not roasted or decaffeinated,8,Weight in kilograms,383,,,,383,,6478,,,0
+H5,2019,2019,2019,6,1,2,Export,410,Rep. of Korea,KOR,276,Germany,DEU,,,,,,,,090111,Coffee; not roasted or decaffeinated,8,Weight in kilograms,42055,,,,42055,,158553,,,0
+H5,2019,2019,2019,6,1,2,Export,410,Rep. of Korea,KOR,392,Japan,JPN,,,,,,,,090111,Coffee; not roasted or decaffeinated,8,Weight in kilograms,84,,,,84,,13866,,,0
+H5,2019,2019,2019,6,1,2,Export,410,Rep. of Korea,KOR,842,USA,USA,,,,,,,,090111,Coffee; not roasted or decaffeinated,8,Weight in kilograms,18783,,,,18783,,135716,,,0
+H5,2019,2019,2019,6,1,2,Export,418,Lao People's Dem. Rep.,LAO,56,Belgium,BEL,,,,,,,,090111,Coffee; not roasted or decaffeinated,8,Weight in kilograms,1623000,,,,1623000,,5236060,,,0
+H5,2019,2019,2019,6,1,2,Export,418,Lao People's Dem. Rep.,LAO,276,Germany,DEU,,,,,,,,090111,Coffee; not roasted or decaffeinated,8,Weight in kilograms,739290,,,,739290,,1288692,,,0
+H5,2019,2019,2019,6,1,2,Export,418,Lao People's Dem. Rep.,LAO,381,Italy,ITA,,,,,,,,090111,Coffee; not roasted or decaffeinated,8,Weight in kilograms,19200,,,,19200,,24960,,,0
+H5,2019,2019,2019,6,1,2,Export,418,Lao People's Dem. Rep.,LAO,392,Japan,JPN,,,,,,,,090111,Coffee; not roasted or decaffeinated,8,Weight in kilograms,2135510,,,,2135510,,4834056,,,0
+H5,2019,2019,2019,6,1,2,Export,418,Lao People's Dem. Rep.,LAO,842,USA,USA,,,,,,,,090111,Coffee; not roasted or decaffeinated,8,Weight in kilograms,302210,,,,302210,,709082,,,0
+H5,2019,2019,2019,6,1,2,Export,428,Latvia,LVA,276,Germany,DEU,,,,,,,,090111,Coffee; not roasted or decaffeinated,8,Weight in kilograms,13380,,,,13380,,99346,,,0
+H5,2019,2019,2019,6,1,2,Export,440,Lithuania,LTU,276,Germany,DEU,,,,,,,,090111,Coffee; not roasted or decaffeinated,8,Weight in kilograms,1200,,,,1200,,4964,,,0
+H5,2019,2019,2019,6,1,2,Export,440,Lithuania,LTU,381,Italy,ITA,,,,,,,,090111,Coffee; not roasted or decaffeinated,8,Weight in kilograms,360,,,,360,,3144,,,0
+H5,2019,2019,2019,6,1,2,Export,450,Madagascar,MDG,381,Italy,ITA,,,,,,,,090111,Coffee; not roasted or decaffeinated,8,Weight in kilograms,36650,,,,36050,,52181,,,0
+H5,2019,2019,2019,6,1,2,Export,450,Madagascar,MDG,392,Japan,JPN,,,,,,,,090111,Coffee; not roasted or decaffeinated,8,Weight in kilograms,572,,,,572,,11351,,,0
+H5,2019,2019,2019,6,1,2,Export,450,Madagascar,MDG,842,USA,USA,,,,,,,,090111,Coffee; not roasted or decaffeinated,8,Weight in kilograms,20,,,,20,,766,,,0
+H5,2019,2019,2019,6,1,2,Export,458,Malaysia,MYS,276,Germany,DEU,,,,,,,,090111,Coffee; not roasted or decaffeinated,8,Weight in kilograms,133454,,,,133454,,288234,,,0
+H5,2019,2019,2019,6,1,2,Export,458,Malaysia,MYS,842,USA,USA,,,,,,,,090111,Coffee; not roasted or decaffeinated,8,Weight in kilograms,2310,,,,2310,,10611,,,0
+H5,2019,2019,2019,6,1,2,Export,516,Namibia,NAM,276,Germany,DEU,,,,,,,,090111,Coffee; not roasted or decaffeinated,8,Weight in kilograms,2,,,,2,,6,,,6
+H5,2019,2019,2019,6,1,2,Export,516,Namibia,NAM,842,USA,USA,,,,,,,,090111,Coffee; not roasted or decaffeinated,8,Weight in kilograms,0,,,,0,,2,,,6
+H5,2019,2019,2019,6,1,2,Export,528,Netherlands,NLD,56,Belgium,BEL,,,,,,,,090111,Coffee; not roasted or decaffeinated,8,Weight in kilograms,880675,,,,880675,,3318602,,,0
+H5,2019,2019,2019,6,1,2,Export,528,Netherlands,NLD,276,Germany,DEU,,,,,,,,090111,Coffee; not roasted or decaffeinated,8,Weight in kilograms,2845230,,,,2845230,,9440280,,,0
+H5,2019,2019,2019,6,1,2,Export,528,Netherlands,NLD,381,Italy,ITA,,,,,,,,090111,Coffee; not roasted or decaffeinated,8,Weight in kilograms,3565960,,,,3565960,,10502071,,,0
+H5,2019,2019,2019,6,1,2,Export,528,Netherlands,NLD,842,USA,USA,,,,,,,,090111,Coffee; not roasted or decaffeinated,8,Weight in kilograms,46029,,,,46029,,303124,,,0
+H5,2019,2019,2019,6,1,2,Export,554,New Zealand,NZL,842,USA,USA,,,,,,,,090111,Coffee; not roasted or decaffeinated,8,Weight in kilograms,3000,,,,3000,,9695,,,0
+H5,2019,2019,2019,6,1,2,Export,579,Norway,NOR,276,Germany,DEU,,,,,,,,090111,Coffee; not roasted or decaffeinated,8,Weight in kilograms,92,,,,92,,1243,,,0
+H5,2019,2019,2019,6,1,2,Export,579,Norway,NOR,381,Italy,ITA,,,,,,,,090111,Coffee; not roasted or decaffeinated,8,Weight in kilograms,720,,,,720,,8419,,,0
+H5,2019,2019,2019,6,1,2,Export,579,Norway,NOR,842,USA,USA,,,,,,,,090111,Coffee; not roasted or decaffeinated,8,Weight in kilograms,13,,,,13,,591,,,0
+H5,2019,2019,2019,6,1,2,Export,604,Peru,PER,56,Belgium,BEL,,,,,,,,090111,Coffee; not roasted or decaffeinated,8,Weight in kilograms,22328110,,,,22328110,,62377839,,,0
+H5,2019,2019,2019,6,1,2,Export,604,Peru,PER,276,Germany,DEU,,,,,,,,090111,Coffee; not roasted or decaffeinated,8,Weight in kilograms,52133655,,,,52133655,,145982404,,,0
+H5,2019,2019,2019,6,1,2,Export,604,Peru,PER,381,Italy,ITA,,,,,,,,090111,Coffee; not roasted or decaffeinated,8,Weight in kilograms,8900529,,,,8900529,,22595562,,,0
+H5,2019,2019,2019,6,1,2,Export,604,Peru,PER,392,Japan,JPN,,,,,,,,090111,Coffee; not roasted or decaffeinated,8,Weight in kilograms,5149933,,,,5149933,,13742519,,,0
+H5,2019,2019,2019,6,1,2,Export,604,Peru,PER,842,USA,USA,,,,,,,,090111,Coffee; not roasted or decaffeinated,8,Weight in kilograms,59102410,,,,59102410,,172572243,,,0
+H5,2019,2019,2019,6,1,2,Export,608,Philippines,PHL,392,Japan,JPN,,,,,,,,090111,Coffee; not roasted or decaffeinated,8,Weight in kilograms,9747,,,,9747,,98957,,,0
+H5,2019,2019,2019,6,1,2,Export,616,Poland,POL,56,Belgium,BEL,,,,,,,,090111,Coffee; not roasted or decaffeinated,8,Weight in kilograms,116,,,,116,,789,,,0
+H5,2019,2019,2019,6,1,2,Export,616,Poland,POL,276,Germany,DEU,,,,,,,,090111,Coffee; not roasted or decaffeinated,8,Weight in kilograms,24566,,,,24566,,124038,,,0
+H5,2019,2019,2019,6,1,2,Export,616,Poland,POL,381,Italy,ITA,,,,,,,,090111,Coffee; not roasted or decaffeinated,8,Weight in kilograms,20,,,,20,,186,,,0
+H5,2019,2019,2019,6,1,2,Export,616,Poland,POL,842,USA,USA,,,,,,,,090111,Coffee; not roasted or decaffeinated,8,Weight in kilograms,1837,,,,1837,,13797,,,0
+H5,2019,2019,2019,6,1,2,Export,620,Portugal,PRT,56,Belgium,BEL,,,,,,,,090111,Coffee; not roasted or decaffeinated,8,Weight in kilograms,10186,,,,10186,,51943,,,0
+H5,2019,2019,2019,6,1,2,Export,620,Portugal,PRT,276,Germany,DEU,,,,,,,,090111,Coffee; not roasted or decaffeinated,8,Weight in kilograms,34145,,,,34145,,88038,,,0
+H5,2019,2019,2019,6,1,2,Export,620,Portugal,PRT,842,USA,USA,,,,,,,,090111,Coffee; not roasted or decaffeinated,8,Weight in kilograms,1314,,,,1314,,15694,,,0
+H5,2019,2019,2019,6,1,2,Export,642,Romania,ROU,56,Belgium,BEL,,,,,,,,090111,Coffee; not roasted or decaffeinated,8,Weight in kilograms,234752,,,,234752,,181016,,,0
+H5,2019,2019,2019,6,1,2,Export,642,Romania,ROU,276,Germany,DEU,,,,,,,,090111,Coffee; not roasted or decaffeinated,8,Weight in kilograms,44543,,,,44543,,130359,,,0
+H5,2019,2019,2019,6,1,2,Export,642,Romania,ROU,381,Italy,ITA,,,,,,,,090111,Coffee; not roasted or decaffeinated,8,Weight in kilograms,27626,,,,27626,,21134,,,0
+H5,2019,2019,2019,6,1,2,Export,646,Rwanda,RWA,56,Belgium,BEL,,,,,,,,090111,Coffee; not roasted or decaffeinated,8,Weight in kilograms,2445158,,,,2445158,,6744573,,,0
+H5,2019,2019,2019,6,1,2,Export,646,Rwanda,RWA,276,Germany,DEU,,,,,,,,090111,Coffee; not roasted or decaffeinated,8,Weight in kilograms,224383,,,,224383,,792117,,,0
+H5,2019,2019,2019,6,1,2,Export,646,Rwanda,RWA,381,Italy,ITA,,,,,,,,090111,Coffee; not roasted or decaffeinated,8,Weight in kilograms,91900,,,,91900,,301990,,,0
+H5,2019,2019,2019,6,1,2,Export,646,Rwanda,RWA,392,Japan,JPN,,,,,,,,090111,Coffee; not roasted or decaffeinated,8,Weight in kilograms,326733,,,,326733,,2108346,,,0
+H5,2019,2019,2019,6,1,2,Export,646,Rwanda,RWA,842,USA,USA,,,,,,,,090111,Coffee; not roasted or decaffeinated,8,Weight in kilograms,1802379,,,,1802379,,7639291,,,0
+H5,2019,2019,2019,6,1,2,Export,686,Senegal,SEN,381,Italy,ITA,,,,,,,,090111,Coffee; not roasted or decaffeinated,8,Weight in kilograms,7740,,,,7740,,17622,,,0
+H5,2019,2019,2019,6,1,2,Export,686,Senegal,SEN,392,Japan,JPN,,,,,,,,090111,Coffee; not roasted or decaffeinated,8,Weight in kilograms,16,,,,16,,102,,,0
+H5,2019,2019,2019,6,1,2,Export,686,Senegal,SEN,842,USA,USA,,,,,,,,090111,Coffee; not roasted or decaffeinated,8,Weight in kilograms,1388,,,,1388,,3220,,,0
+H5,2019,2019,2019,6,1,2,Export,699,India,IND,56,Belgium,BEL,,,,,,,,090111,Coffee; not roasted or decaffeinated,8,Weight in kilograms,18874287,,,,18874287,,44956693,,,0
+H5,2019,2019,2019,6,1,2,Export,699,India,IND,276,Germany,DEU,,,,,,,,090111,Coffee; not roasted or decaffeinated,8,Weight in kilograms,36350133,,,,36350133,,80583057,,,0
+H5,2019,2019,2019,6,1,2,Export,699,India,IND,381,Italy,ITA,,,,,,,,090111,Coffee; not roasted or decaffeinated,8,Weight in kilograms,70787379,,,,70787379,,140266201,,,0
+H5,2019,2019,2019,6,1,2,Export,699,India,IND,392,Japan,JPN,,,,,,,,090111,Coffee; not roasted or decaffeinated,8,Weight in kilograms,220770,,,,220770,,840273,,,0
+H5,2019,2019,2019,6,1,2,Export,699,India,IND,842,USA,USA,,,,,,,,090111,Coffee; not roasted or decaffeinated,8,Weight in kilograms,2353297,,,,2353297,,6848094,,,0
+H5,2019,2019,2019,6,1,2,Export,702,Singapore,SGP,276,Germany,DEU,,,,,,,,090111,Coffee; not roasted or decaffeinated,8,Weight in kilograms,95382,,,,95382,,633190,,,0
+H5,2019,2019,2019,6,1,2,Export,702,Singapore,SGP,392,Japan,JPN,,,,,,,,090111,Coffee; not roasted or decaffeinated,8,Weight in kilograms,24044,,,,24044,,194717,,,0
+H5,2019,2019,2019,6,1,2,Export,702,Singapore,SGP,842,USA,USA,,,,,,,,090111,Coffee; not roasted or decaffeinated,8,Weight in kilograms,1098760,,,,1098760,,7779452,,,0
+H5,2019,2019,2019,6,1,2,Export,703,Slovakia,SVK,276,Germany,DEU,,,,,,,,090111,Coffee; not roasted or decaffeinated,8,Weight in kilograms,6469,,,,6469,,62341,,,0
+H5,2019,2019,2019,6,1,2,Export,704,Viet Nam,VNM,56,Belgium,BEL,,,,,,,,090111,Coffee; not roasted or decaffeinated,8,Weight in kilograms,72877340,,,,72877340,,115266871,,,0
+H5,2019,2019,2019,6,1,2,Export,704,Viet Nam,VNM,276,Germany,DEU,,,,,,,,090111,Coffee; not roasted or decaffeinated,8,Weight in kilograms,228904950,,,,228904950,,345467557,,,0
+H5,2019,2019,2019,6,1,2,Export,704,Viet Nam,VNM,381,Italy,ITA,,,,,,,,090111,Coffee; not roasted or decaffeinated,8,Weight in kilograms,139268550,,,,139268550,,218623911,,,0
+H5,2019,2019,2019,6,1,2,Export,704,Viet Nam,VNM,392,Japan,JPN,,,,,,,,090111,Coffee; not roasted or decaffeinated,8,Weight in kilograms,92835180,,,,92835180,,144508903,,,0
+H5,2019,2019,2019,6,1,2,Export,704,Viet Nam,VNM,842,USA,USA,,,,,,,,090111,Coffee; not roasted or decaffeinated,8,Weight in kilograms,133619660,,,,133619660,,208509111,,,0
+H5,2019,2019,2019,6,1,2,Export,705,Slovenia,SVN,276,Germany,DEU,,,,,,,,090111,Coffee; not roasted or decaffeinated,8,Weight in kilograms,1021,,,,1021,,2339,,,0
+H5,2019,2019,2019,6,1,2,Export,705,Slovenia,SVN,381,Italy,ITA,,,,,,,,090111,Coffee; not roasted or decaffeinated,8,Weight in kilograms,635072,,,,635072,,1401268,,,0
+H5,2019,2019,2019,6,1,2,Export,710,South Africa,ZAF,56,Belgium,BEL,,,,,,,,090111,Coffee; not roasted or decaffeinated,8,Weight in kilograms,19200,,,,19200,,32926,,,0
+H5,2019,2019,2019,6,1,2,Export,710,South Africa,ZAF,276,Germany,DEU,,,,,,,,090111,Coffee; not roasted or decaffeinated,8,Weight in kilograms,19220,,,,19220,,34990,,,0
+H5,2019,2019,2019,6,1,2,Export,710,South Africa,ZAF,842,USA,USA,,,,,,,,090111,Coffee; not roasted or decaffeinated,8,Weight in kilograms,68090,,,,68090,,141162,,,0
+H5,2019,2019,2019,6,1,2,Export,716,Zimbabwe,ZWE,56,Belgium,BEL,,,,,,,,090111,Coffee; not roasted or decaffeinated,8,Weight in kilograms,38400,,,,38400,,246936,,,0
+H5,2019,2019,2019,6,1,2,Export,724,Spain,ESP,56,Belgium,BEL,,,,,,,,090111,Coffee; not roasted or decaffeinated,8,Weight in kilograms,6194,,,,6194,,83078,,,0
+H5,2019,2019,2019,6,1,2,Export,724,Spain,ESP,276,Germany,DEU,,,,,,,,090111,Coffee; not roasted or decaffeinated,8,Weight in kilograms,1193387,,,,1193387,,3467173,,,0
+H5,2019,2019,2019,6,1,2,Export,724,Spain,ESP,381,Italy,ITA,,,,,,,,090111,Coffee; not roasted or decaffeinated,8,Weight in kilograms,1094494,,,,1094494,,3114323,,,0
+H5,2019,2019,2019,6,1,2,Export,724,Spain,ESP,392,Japan,JPN,,,,,,,,090111,Coffee; not roasted or decaffeinated,8,Weight in kilograms,1018,,,,1018,,11419,,,0
+H5,2019,2019,2019,6,1,2,Export,724,Spain,ESP,842,USA,USA,,,,,,,,090111,Coffee; not roasted or decaffeinated,8,Weight in kilograms,67115,,,,67115,,143973,,,0
+H5,2019,2019,2019,6,1,2,Export,752,Sweden,SWE,56,Belgium,BEL,,,,,,,,090111,Coffee; not roasted or decaffeinated,8,Weight in kilograms,148000,,,,148000,,386625,,,0
+H5,2019,2019,2019,6,1,2,Export,752,Sweden,SWE,276,Germany,DEU,,,,,,,,090111,Coffee; not roasted or decaffeinated,8,Weight in kilograms,1309000,,,,1309000,,2142302,,,0
+H5,2019,2019,2019,6,1,2,Export,752,Sweden,SWE,392,Japan,JPN,,,,,,,,090111,Coffee; not roasted or decaffeinated,8,Weight in kilograms,1399,,,,1399,,3912,,,6
+H5,2019,2019,2019,6,1,2,Export,752,Sweden,SWE,842,USA,USA,,,,,,,,090111,Coffee; not roasted or decaffeinated,8,Weight in kilograms,6350,,,,6350,,33946,,,6
+H5,2019,2019,2019,6,1,2,Export,757,Switzerland,CHE,56,Belgium,BEL,,,,,,,,090111,Coffee; not roasted or decaffeinated,8,Weight in kilograms,505576,,,,505576,,2099688,,,6
+H5,2019,2019,2019,6,1,2,Export,757,Switzerland,CHE,276,Germany,DEU,,,,,,,,090111,Coffee; not roasted or decaffeinated,8,Weight in kilograms,436598,,,,436598,,1671102,,,6
+H5,2019,2019,2019,6,1,2,Export,757,Switzerland,CHE,381,Italy,ITA,,,,,,,,090111,Coffee; not roasted or decaffeinated,8,Weight in kilograms,83710,,,,83710,,293075,,,6
+H5,2019,2019,2019,6,1,2,Export,757,Switzerland,CHE,392,Japan,JPN,,,,,,,,090111,Coffee; not roasted or decaffeinated,8,Weight in kilograms,42,,,,42,,1470,,,6
+H5,2019,2019,2019,6,1,2,Export,757,Switzerland,CHE,842,USA,USA,,,,,,,,090111,Coffee; not roasted or decaffeinated,8,Weight in kilograms,74,,,,74,,1533,,,6
+H5,2019,2019,2019,6,1,2,Export,764,Thailand,THA,276,Germany,DEU,,,,,,,,090111,Coffee; not roasted or decaffeinated,8,Weight in kilograms,55631,,,,55631,,161338,,,6
+H5,2019,2019,2019,6,1,2,Export,764,Thailand,THA,392,Japan,JPN,,,,,,,,090111,Coffee; not roasted or decaffeinated,8,Weight in kilograms,225589,,,,225589,,682923,,,6
+H5,2019,2019,2019,6,1,2,Export,764,Thailand,THA,842,USA,USA,,,,,,,,090111,Coffee; not roasted or decaffeinated,8,Weight in kilograms,151698,,,,151698,,506669,,,6
+H5,2019,2019,2019,6,1,2,Export,768,Togo,TGO,56,Belgium,BEL,,,,,,,,090111,Coffee; not roasted or decaffeinated,8,Weight in kilograms,699685,,,,699685,,1139881,,,0
+H5,2019,2019,2019,6,1,2,Export,768,Togo,TGO,381,Italy,ITA,,,,,,,,090111,Coffee; not roasted or decaffeinated,8,Weight in kilograms,315169,,,,315169,,508638,,,0
+H5,2019,2019,2019,6,1,2,Export,792,Turkey,TUR,56,Belgium,BEL,,,,,,,,090111,Coffee; not roasted or decaffeinated,8,Weight in kilograms,900,,,,900,,2457,,,0
+H5,2019,2019,2019,6,1,2,Export,792,Turkey,TUR,381,Italy,ITA,,,,,,,,090111,Coffee; not roasted or decaffeinated,8,Weight in kilograms,378,,,,378,,1877,,,0
+H5,2019,2019,2019,6,1,2,Export,826,United Kingdom,GBR,56,Belgium,BEL,,,,,,,,090111,Coffee; not roasted or decaffeinated,8,Weight in kilograms,625214,,,,625214,,1082037,,,0
+H5,2019,2019,2019,6,1,2,Export,826,United Kingdom,GBR,276,Germany,DEU,,,,,,,,090111,Coffee; not roasted or decaffeinated,8,Weight in kilograms,936930,,,,936930,,3394874,,,0
+H5,2019,2019,2019,6,1,2,Export,826,United Kingdom,GBR,381,Italy,ITA,,,,,,,,090111,Coffee; not roasted or decaffeinated,8,Weight in kilograms,389621,,,,389621,,1716382,,,0
+H5,2019,2019,2019,6,1,2,Export,826,United Kingdom,GBR,392,Japan,JPN,,,,,,,,090111,Coffee; not roasted or decaffeinated,8,Weight in kilograms,49676,,,,49676,,508221,,,0
+H5,2019,2019,2019,6,1,2,Export,826,United Kingdom,GBR,842,USA,USA,,,,,,,,090111,Coffee; not roasted or decaffeinated,8,Weight in kilograms,108407,,,,108407,,750681,,,0
+H5,2019,2019,2019,6,1,2,Export,842,USA,USA,56,Belgium,BEL,,,,,,,,090111,Coffee; not roasted or decaffeinated,8,Weight in kilograms,337337,,,,337337,,2588363,,,0
+H5,2019,2019,2019,6,1,2,Export,842,USA,USA,276,Germany,DEU,,,,,,,,090111,Coffee; not roasted or decaffeinated,8,Weight in kilograms,1683072,,,,1683072,,7461889,,,0
+H5,2019,2019,2019,6,1,2,Export,842,USA,USA,381,Italy,ITA,,,,,,,,090111,Coffee; not roasted or decaffeinated,8,Weight in kilograms,55820,,,,55820,,219030,,,0
+H5,2019,2019,2019,6,1,2,Export,842,USA,USA,392,Japan,JPN,,,,,,,,090111,Coffee; not roasted or decaffeinated,8,Weight in kilograms,819424,,,,819424,,6757212,,,0
+H5,2019,2019,2019,6,1,2,Export,894,Zambia,ZMB,56,Belgium,BEL,,,,,,,,090111,Coffee; not roasted or decaffeinated,8,Weight in kilograms,76800,,,,76800,,121278,,,0
+H5,2019,2019,2019,6,1,2,Export,894,Zambia,ZMB,276,Germany,DEU,,,,,,,,090111,Coffee; not roasted or decaffeinated,8,Weight in kilograms,328840,,,,328840,,948404,,,0
+H5,2019,2019,2019,6,1,2,Export,894,Zambia,ZMB,392,Japan,JPN,,,,,,,,090111,Coffee; not roasted or decaffeinated,8,Weight in kilograms,99300,,,,99300,,317785,,,0
+H5,2019,2019,2019,6,1,2,Export,894,Zambia,ZMB,842,USA,USA,,,,,,,,090111,Coffee; not roasted or decaffeinated,8,Weight in kilograms,130887,,,,130887,,443520,,,0
+H4,2019,2019,2019,6,1,2,Export,484,Mexico,MEX,56,Belgium,BEL,,,,,,,,090111,Coffee; not roasted or decaffeinated,8,Weight in kilograms,4899054,,,,4899054,,15473817,,,0
+H4,2019,2019,2019,6,1,2,Export,484,Mexico,MEX,276,Germany,DEU,,,,,,,,090111,Coffee; not roasted or decaffeinated,8,Weight in kilograms,3301685,,,,3301685,,10632651,,,0
+H4,2019,2019,2019,6,1,2,Export,484,Mexico,MEX,381,Italy,ITA,,,,,,,,090111,Coffee; not roasted or decaffeinated,8,Weight in kilograms,1859126,,,,1859126,,5463662,,,0
+H4,2019,2019,2019,6,1,2,Export,484,Mexico,MEX,842,USA,USA,,,,,,,,090111,Coffee; not roasted or decaffeinated,8,Weight in kilograms,43833715,,,,43833715,,136325959,,,0
