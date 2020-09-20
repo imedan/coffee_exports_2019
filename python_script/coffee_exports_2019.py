@@ -2,7 +2,7 @@ import pandas as pd
 import numpy as np
 from chord import Chord 
 
-df=pd.read_csv('coffee/coffee_data_2019_top_5.csv')
+df=pd.read_csv('coffee_data_2019_top_5.csv')
 
 top=['USA','Germany','Italy','Japan','Belgium']
 
